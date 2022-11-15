@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1921.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-917.000000 -472.164185 1921.000000 916.684937" height="916.68494"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 574.709717,-359.382416 C 613.010193,-383.123444 706.072449,-361.284241 729.813477,-322.983765"
+              class="id_Precentral_L id_Precentral_R" stroke-opacity="1.0"
+              stroke="#28b36a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 574.709717,-359.382416 C 585.806824,-294.104248 504.535217,-179.541367 439.257050,-168.444275"
+              class="id_Precentral_L id_Frontal_Mid_R" stroke-opacity="1.0"
+              stroke="#909556"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 574.709717,-359.382416 C 631.137695,-375.714111 740.277283,-315.569672 756.608948,-259.141663"
+              class="id_Precentral_L id_Frontal_Inf_Oper_R" stroke-opacity="1.0"
+              stroke="#28b36a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 574.709717,-359.382416 C 464.565430,-168.724319 13.361782,-47.953644 -177.296310,-158.097946"
+              class="id_Precentral_L id_Supp_Motor_Area_L" stroke-opacity="1.0"
+              stroke="#61a4a7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 574.709717,-359.382416 C 631.094116,-403.588318 781.979492,-385.320648 826.185425,-328.936279"
+              class="id_Precentral_L id_Insula_L" stroke-opacity="1.0"
+              stroke="#28b36a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 574.709717,-359.382416 C 630.488403,-304.274139 631.494080,-137.943649 576.385803,-82.164940"
+              class="id_Precentral_L id_Cingulum_Mid_L" stroke-opacity="1.0"
+              stroke="#909556"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 574.709717,-359.382416 C 499.958160,-315.586487 322.136871,-362.019867 278.340942,-436.771423"
+              class="id_Precentral_L id_Parietal_Sup_L" stroke-opacity="1.0"
+              stroke="#28b36a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 729.813477,-322.983765 C 702.610107,-233.964584 528.276245,-141.240891 439.257050,-168.444275"
+              class="id_Precentral_R id_Frontal_Mid_R" stroke-opacity="1.0"
+              stroke="#909556"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 729.813477,-322.983765 C 747.940979,-315.574432 764.018311,-277.269196 756.608948,-259.141663"
+              class="id_Precentral_R id_Frontal_Inf_Oper_R" stroke-opacity="1.0"
+              stroke="#28b36a"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 729.813477,-322.983765 C 747.897400,-343.448639 805.720520,-347.020172 826.185425,-328.936279"
+              class="id_Precentral_R id_Insula_L" stroke-opacity="1.0"
+              stroke="#28b36a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 729.813477,-322.983765 C 747.291687,-244.134476 655.235107,-99.643173 576.385803,-82.164940"
+              class="id_Precentral_R id_Cingulum_Mid_L" stroke-opacity="1.0"
+              stroke="#909556"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -506.237915,364.064667 C -453.679504,182.900421 -103.095558,-10.008354 78.068687,42.550045"
+              class="id_Frontal_Sup_L id_Frontal_Mid_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -506.237915,364.064667 C -575.988098,288.423065 -567.151001,70.335381 -491.509369,0.585195"
+              class="id_Frontal_Sup_L id_Frontal_Mid_Orb_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -506.237915,364.064667 C -479.548889,274.764008 -305.564331,180.846588 -216.263672,207.535614"
+              class="id_Frontal_Sup_L id_Frontal_Inf_Oper_L"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -506.237915,364.064667 C -544.882080,193.843811 -347.517151,-119.453751 -177.296310,-158.097946"
+              class="id_Frontal_Sup_L id_Supp_Motor_Area_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -506.237915,364.064667 C -544.415894,280.239868 -475.945709,97.235680 -392.120911,59.057686"
+              class="id_Frontal_Sup_L id_Supp_Motor_Area_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -506.237915,364.064667 C -450.231201,293.481323 -260.346130,271.616333 -189.762772,327.623047"
+              class="id_Frontal_Sup_L id_Frontal_Mid_Orb_L.1"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -506.237915,364.064667 C -473.729584,350.777039 -405.035614,379.608063 -391.747986,412.116394"
+              class="id_Frontal_Sup_L id_Insula_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -506.237915,364.064667 C -561.825745,238.525620 -456.898956,-33.164783 -331.359894,-88.752632"
+              class="id_Frontal_Sup_L id_Cingulum_Mid_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -506.237915,364.064667 C -582.713196,334.374054 -652.890137,175.125259 -623.199524,98.650002"
+              class="id_Frontal_Sup_L id_Cuneus_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -506.237915,364.064667 C -447.205780,327.988953 -304.544037,362.423523 -268.468323,421.455658"
+              class="id_Frontal_Sup_L id_Lingual_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -506.237915,364.064667 C -545.018921,314.767365 -529.244568,182.649887 -479.947235,143.868851"
+              class="id_Frontal_Sup_L id_Lingual_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -506.237915,364.064667 C -510.369507,330.769440 -466.624084,274.629272 -433.328857,270.497681"
+              class="id_Frontal_Sup_L id_Occipital_Sup_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -506.237915,364.064667 C -540.193542,351.054047 -571.611084,280.604645 -558.600403,246.649017"
+              class="id_Frontal_Sup_L id_Occipital_Sup_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -506.237915,364.064667 C -514.157471,265.679993 -378.459717,106.223633 -280.075043,98.304100"
+              class="id_Frontal_Sup_L id_Occipital_Mid_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -506.237915,364.064667 C -511.543640,297.928070 -420.297333,190.764557 -354.160736,185.458832"
+              class="id_Frontal_Sup_L id_Occipital_Inf_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -506.237915,364.064667 C -422.458374,239.429901 -109.836983,178.147064 14.797772,261.926605"
+              class="id_Frontal_Sup_L id_Fusiform_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -506.237915,364.064667 C -480.185791,312.934967 -364.413086,275.318542 -313.283386,301.370667"
+              class="id_Frontal_Sup_L id_Fusiform_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -506.237915,364.064667 C -496.094025,221.816833 -267.506439,23.660965 -125.258621,33.804867"
+              class="id_Frontal_Sup_L id_Parietal_Inf_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.489365,-402.215302 C -102.227280,-346.830444 -121.911453,-200.360031 -177.296310,-158.097946"
+              class="id_Frontal_Sup_R id_Supp_Motor_Area_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.489365,-402.215302 C -119.170929,-302.148651 -231.293243,-114.071060 -331.359894,-88.752632"
+              class="id_Frontal_Sup_R id_Cingulum_Mid_R" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.489365,-402.215302 C -81.928429,-426.750275 48.715416,-369.711304 73.250381,-307.150391"
+              class="id_Frontal_Sup_R id_Parietal_Inf_R" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 434.072479,52.554638 C 360.870789,121.754478 147.268524,115.751724 78.068687,42.550045"
+              class="id_Frontal_Sup_Orb_L id_Frontal_Mid_L" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 434.072479,52.554638 C 390.909607,7.317941 394.020325,-125.281403 439.257050,-168.444275"
+              class="id_Frontal_Sup_Orb_L id_Frontal_Mid_R" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 434.072479,52.554638 C 454.258362,66.881737 463.046539,118.651215 448.719421,138.837097"
+              class="id_Frontal_Sup_Orb_L id_Cingulum_Ant_R"
+              stroke-opacity="1.0" stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 434.072479,52.554638 C 435.591248,-2.851942 520.979248,-83.683685 576.385803,-82.164940"
+              class="id_Frontal_Sup_Orb_L id_Cingulum_Mid_L"
+              stroke-opacity="1.0" stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 434.072479,52.554638 C 457.258423,44.736439 503.764648,67.788063 511.582855,90.974014"
+              class="id_Frontal_Sup_Orb_L id_Hippocampus_L" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 434.072479,52.554638 C 392.091919,178.283966 140.527115,303.907166 14.797772,261.926605"
+              class="id_Frontal_Sup_Orb_L id_Fusiform_L" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 78.068687,42.550045 C 108.107498,-71.886490 324.820526,-198.483078 439.257050,-168.444275"
+              class="id_Frontal_Mid_L id_Frontal_Mid_R" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.068687,42.550045 C -44.239902,148.072693 -385.986725,122.893784 -491.509369,0.585195"
+              class="id_Frontal_Mid_L id_Frontal_Mid_Orb_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.068687,42.550045 C 52.199329,134.413635 -124.400085,233.404968 -216.263672,207.535614"
+              class="id_Frontal_Mid_L id_Frontal_Inf_Oper_L"
+              stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.068687,42.550045 C 42.283638,-49.430222 126.576447,-241.078171 218.556717,-276.863220"
+              class="id_Frontal_Mid_L id_Frontal_Inf_Tri_L" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.068687,42.550045 C -13.133915,53.493446 -166.352905,-66.895340 -177.296310,-158.097946"
+              class="id_Frontal_Mid_L id_Supp_Motor_Area_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.068687,42.550045 C -12.667703,139.889496 -294.781494,149.794067 -392.120911,59.057686"
+              class="id_Frontal_Mid_L id_Supp_Motor_Area_R" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.068687,42.550045 C 58.863846,-37.388268 149.964050,-186.102982 229.902359,-205.307831"
+              class="id_Frontal_Mid_L id_Frontal_Sup_Medial_L"
+              stroke-opacity="1.0" stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.068687,42.550045 C 81.516998,153.130951 -79.181870,324.174744 -189.762772,327.623047"
+              class="id_Frontal_Mid_L id_Frontal_Mid_Orb_L.1"
+              stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.068687,42.550045 C 58.018623,210.426651 -223.871399,432.166443 -391.747986,412.116394"
+              class="id_Frontal_Mid_L id_Insula_R" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.068687,42.550045 C 171.456253,-12.322693 393.846680,45.449539 448.719421,138.837097"
+              class="id_Frontal_Mid_L id_Cingulum_Ant_R" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.068687,42.550045 C 152.789124,-82.056374 451.779388,-156.885361 576.385803,-82.164940"
+              class="id_Frontal_Mid_L id_Cingulum_Mid_L" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.068687,42.550045 C -30.077566,98.175232 -275.734711,19.393623 -331.359894,-88.752632"
+              class="id_Frontal_Mid_L id_Cingulum_Mid_R" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.068687,42.550045 C 174.456314,-34.467995 434.564789,-5.413612 511.582855,90.974014"
+              class="id_Frontal_Mid_L id_Hippocampus_L" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.068687,42.550045 C -50.964951,194.023666 -471.725891,227.683640 -623.199524,98.650002"
+              class="id_Frontal_Mid_L id_Cuneus_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.068687,42.550045 C 84.542404,187.638565 -123.379799,414.981934 -268.468323,421.455658"
+              class="id_Frontal_Mid_L id_Lingual_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.068687,42.550045 C -13.270733,174.416992 -348.080292,235.208267 -479.947235,143.868851"
+              class="id_Frontal_Mid_L id_Lingual_R" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.068687,42.550045 C 21.378704,190.419083 -285.459808,327.187683 -433.328857,270.497681"
+              class="id_Frontal_Mid_L id_Occipital_Sup_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.068687,42.550045 C -8.445339,210.703674 -390.446777,333.163055 -558.600403,246.649017"
+              class="id_Frontal_Mid_L id_Occipital_Sup_R" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.068687,42.550045 C 17.590746,125.329613 -197.295471,158.782043 -280.075043,98.304100"
+              class="id_Frontal_Mid_L id_Occipital_Mid_R" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.068687,42.550045 C 20.204552,157.577698 -239.133087,243.322968 -354.160736,185.458832"
+              class="id_Frontal_Mid_L id_Occipital_Inf_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 78.068687,42.550045 C 109.289818,99.079536 71.327271,230.705490 14.797772,261.926605"
+              class="id_Frontal_Mid_L id_Fusiform_L" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.068687,42.550045 C 51.562389,172.584595 -183.248840,327.876953 -313.283386,301.370667"
+              class="id_Frontal_Mid_L id_Fusiform_R" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 78.068687,42.550045 C 35.654190,81.466476 -86.342194,76.219360 -125.258621,33.804867"
+              class="id_Frontal_Mid_L id_Parietal_Inf_L" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.068687,42.550045 C 7.164940,-26.426380 4.273956,-236.246628 73.250381,-307.150391"
+              class="id_Frontal_Mid_L id_Parietal_Inf_R" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 439.257050,-168.444275 C 484.587952,-250.054138 674.999084,-304.472565 756.608948,-259.141663"
+              class="id_Frontal_Mid_R id_Frontal_Inf_Oper_R"
+              stroke-opacity="1.0" stroke="#909556"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 439.257050,-168.444275 C 373.433197,-145.988007 241.012985,-211.039368 218.556717,-276.863220"
+              class="id_Frontal_Mid_R id_Frontal_Inf_Tri_L" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 439.257050,-168.444275 C 390.013397,-133.946045 264.400604,-156.064178 229.902359,-205.307831"
+              class="id_Frontal_Mid_R id_Frontal_Sup_Medial_L"
+              stroke-opacity="1.0" stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 439.257050,-168.444275 C 484.544312,-277.928345 716.701355,-374.223572 826.185425,-328.936279"
+              class="id_Frontal_Mid_R id_Insula_L" stroke-opacity="1.0"
+              stroke="#909556"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 439.257050,-168.444275 C 502.605804,-108.880470 508.283203,75.488350 448.719421,138.837097"
+              class="id_Frontal_Mid_R id_Cingulum_Ant_R" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 439.257050,-168.444275 C 483.938660,-178.614166 566.215881,-126.846558 576.385803,-82.164940"
+              class="id_Frontal_Mid_R id_Cingulum_Mid_L" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 439.257050,-168.444275 C 505.605865,-131.025787 549.001343,24.625198 511.582855,90.974014"
+              class="id_Frontal_Mid_R id_Hippocampus_L" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 439.257050,-168.444275 C 440.439392,2.521759 185.763809,260.744263 14.797772,261.926605"
+              class="id_Frontal_Mid_R id_Fusiform_L" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 439.257050,-168.444275 C 366.803741,-15.091309 28.094345,106.258179 -125.258621,33.804867"
+              class="id_Frontal_Mid_R id_Parietal_Inf_L" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 439.257050,-168.444275 C 338.314514,-122.984169 118.710495,-206.207855 73.250381,-307.150391"
+              class="id_Frontal_Mid_R id_Parietal_Inf_R" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -491.509369,0.585195 C -395.070160,-13.073860 -229.922714,111.096382 -216.263672,207.535614"
+              class="id_Frontal_Mid_Orb_L id_Frontal_Inf_Oper_L"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -491.509369,0.585195 C -460.403381,-93.994049 -271.875549,-189.203934 -177.296310,-158.097946"
+              class="id_Frontal_Mid_Orb_L id_Supp_Motor_Area_L"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -491.509369,0.585195 C -459.937195,-7.597997 -400.304108,27.485495 -392.120911,59.057686"
+              class="id_Frontal_Mid_Orb_L id_Supp_Motor_Area_R"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -491.509369,0.585195 C -365.752502,5.643452 -184.704529,201.866165 -189.762772,327.623047"
+              class="id_Frontal_Mid_Orb_L id_Frontal_Mid_Orb_L.1"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -491.509369,0.585195 C -389.250854,62.939163 -329.394012,309.857880 -391.747986,412.116394"
+              class="id_Frontal_Mid_Orb_L id_Insula_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -491.509369,0.585195 C -477.347015,-49.312271 -381.257355,-102.914963 -331.359894,-88.752632"
+              class="id_Frontal_Mid_Orb_L id_Cingulum_Mid_R"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -491.509369,0.585195 C -498.234436,46.536186 -577.248535,105.375076 -623.199524,98.650002"
+              class="id_Frontal_Mid_Orb_L id_Cuneus_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -491.509369,0.585195 C -362.727051,40.151073 -228.902451,292.673340 -268.468323,421.455658"
+              class="id_Frontal_Mid_Orb_L id_Lingual_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -491.509369,0.585195 C -460.540192,26.929501 -453.602936,112.899696 -479.947235,143.868851"
+              class="id_Frontal_Mid_Orb_L id_Lingual_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -491.509369,0.585195 C -425.890747,42.931587 -390.982483,204.879074 -433.328857,270.497681"
+              class="id_Frontal_Mid_Orb_L id_Occipital_Sup_L"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -491.509369,0.585195 C -455.714813,63.216164 -495.969421,210.854462 -558.600403,246.649017"
+              class="id_Frontal_Mid_Orb_L id_Occipital_Sup_R"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -491.509369,0.585195 C -429.678711,-22.157890 -302.818115,36.473457 -280.075043,98.304100"
+              class="id_Frontal_Mid_Orb_L id_Occipital_Mid_R"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -491.509369,0.585195 C -427.064911,10.090193 -344.655731,121.014374 -354.160736,185.458832"
+              class="id_Frontal_Mid_Orb_L id_Occipital_Inf_L"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -491.509369,0.585195 C -337.979675,-48.407948 -34.195366,108.396904 14.797772,261.926605"
+              class="id_Frontal_Mid_Orb_L id_Fusiform_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -491.509369,0.585195 C -395.707062,25.097088 -288.771484,205.568359 -313.283386,301.370667"
+              class="id_Frontal_Mid_Orb_L id_Fusiform_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -491.509369,0.585195 C -411.615295,-66.021011 -191.864822,-46.089211 -125.258621,33.804867"
+              class="id_Frontal_Mid_Orb_L id_Parietal_Inf_L"
+              stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -216.263672,207.535614 C -281.596924,126.615433 -258.216492,-92.764709 -177.296310,-158.097946"
+              class="id_Frontal_Inf_Oper_L id_Supp_Motor_Area_L"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -216.263672,207.535614 C -281.130707,213.011475 -386.645050,123.924728 -392.120911,59.057686"
+              class="id_Frontal_Inf_Oper_L id_Supp_Motor_Area_R"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -216.263672,207.535614 C -186.945999,226.252914 -171.045471,298.305389 -189.762772,327.623047"
+              class="id_Frontal_Inf_Oper_L id_Frontal_Mid_Orb_L.1"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -216.263672,207.535614 C -210.444382,283.548645 -315.734955,406.297089 -391.747986,412.116394"
+              class="id_Frontal_Inf_Oper_L id_Insula_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -216.263672,207.535614 C -298.540558,171.297211 -367.598297,-6.475739 -331.359894,-88.752632"
+              class="id_Frontal_Inf_Oper_L id_Cingulum_Mid_R"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -216.263672,207.535614 C -319.427979,267.145660 -563.589478,201.814301 -623.199524,98.650002"
+              class="id_Frontal_Inf_Oper_L id_Cuneus_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -216.263672,207.535614 C -183.920593,260.760559 -215.243393,389.112579 -268.468323,421.455658"
+              class="id_Frontal_Inf_Oper_L id_Lingual_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -216.263672,207.535614 C -281.733734,247.538971 -439.943848,209.338913 -479.947235,143.868851"
+              class="id_Frontal_Inf_Oper_L id_Lingual_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -216.263672,207.535614 C -247.084290,263.541077 -377.323425,301.318298 -433.328857,270.497681"
+              class="id_Frontal_Inf_Oper_L id_Occipital_Sup_L"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -216.263672,207.535614 C -276.908325,283.825623 -482.310364,307.293701 -558.600403,246.649017"
+              class="id_Frontal_Inf_Oper_L id_Occipital_Sup_R"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -216.263672,207.535614 C -250.872238,198.451584 -289.159088,132.912674 -280.075043,98.304100"
+              class="id_Frontal_Inf_Oper_L id_Occipital_Mid_R"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -216.263672,207.535614 C -248.258438,230.699661 -330.996674,217.453598 -354.160736,185.458832"
+              class="id_Frontal_Inf_Oper_L id_Occipital_Inf_L"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -216.263672,207.535614 C -159.173187,172.201538 -20.536320,204.836121 14.797772,261.926605"
+              class="id_Frontal_Inf_Oper_L id_Fusiform_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -216.263672,207.535614 C -216.900604,245.706573 -275.112457,302.007599 -313.283386,301.370667"
+              class="id_Frontal_Inf_Oper_L id_Fusiform_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -216.263672,207.535614 C -232.808807,154.588440 -178.205780,50.350006 -125.258621,33.804867"
+              class="id_Frontal_Inf_Oper_L id_Parietal_Inf_L"
+              stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 756.608948,-259.141663 C 756.565308,-287.015869 798.311218,-328.892639 826.185425,-328.936279"
+              class="id_Frontal_Inf_Oper_R id_Insula_L" stroke-opacity="1.0"
+              stroke="#28b36a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 756.608948,-259.141663 C 755.959656,-187.701691 647.825745,-81.515656 576.385803,-82.164940"
+              class="id_Frontal_Inf_Oper_R id_Cingulum_Mid_L"
+              stroke-opacity="1.0" stroke="#909556"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 218.556717,-276.863220 C 235.136932,-264.821289 241.944305,-221.888046 229.902359,-205.307831"
+              class="id_Frontal_Inf_Tri_L id_Frontal_Sup_Medial_L"
+              stroke-opacity="1.0" stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 218.556717,-276.863220 C 211.927246,-145.966553 5.638062,40.434322 -125.258621,33.804867"
+              class="id_Frontal_Inf_Tri_L id_Parietal_Inf_L"
+              stroke-opacity="1.0" stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 218.556717,-276.863220 C 183.438019,-253.859390 96.254211,-272.031677 73.250381,-307.150391"
+              class="id_Frontal_Inf_Tri_L id_Parietal_Inf_R"
+              stroke-opacity="1.0" stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -177.296310,-158.097946 C -176.830109,-71.701897 -305.724884,58.591476 -392.120911,59.057686"
+              class="id_Supp_Motor_Area_L id_Supp_Motor_Area_R"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -177.296310,-158.097946 C -82.645393,-58.460449 -90.125282,232.972137 -189.762772,327.623047"
+              class="id_Supp_Motor_Area_L id_Frontal_Mid_Orb_L.1"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -177.296310,-158.097946 C -106.143776,-1.164742 -234.814789,340.963867 -391.747986,412.116394"
+              class="id_Supp_Motor_Area_L id_Insula_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -177.296310,-158.097946 C -194.239960,-113.416161 -286.678131,-71.808975 -331.359894,-88.752632"
+              class="id_Supp_Motor_Area_L id_Cingulum_Mid_R"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -177.296310,-158.097946 C -215.127365,-17.567711 -482.669281,136.481049 -623.199524,98.650002"
+              class="id_Supp_Motor_Area_L id_Cuneus_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -177.296310,-158.097946 C -79.619995,-23.952822 -134.323196,323.779327 -268.468323,421.455658"
+              class="id_Supp_Motor_Area_L id_Lingual_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -177.296310,-158.097946 C -177.433136,-37.174404 -359.023682,144.005676 -479.947235,143.868851"
+              class="id_Supp_Motor_Area_L id_Lingual_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -177.296310,-158.097946 C -142.783691,-21.172306 -296.403198,235.985062 -433.328857,270.497681"
+              class="id_Supp_Motor_Area_L id_Occipital_Sup_L"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -177.296310,-158.097946 C -172.607742,-0.887749 -401.390198,241.960449 -558.600403,246.649017"
+              class="id_Supp_Motor_Area_L id_Occipital_Sup_R"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -177.296310,-158.097946 C -146.571640,-86.261787 -208.238876,67.579437 -280.075043,98.304100"
+              class="id_Supp_Motor_Area_L id_Occipital_Mid_R"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -177.296310,-158.097946 C -143.957825,-54.013702 -250.076477,152.120361 -354.160736,185.458832"
+              class="id_Supp_Motor_Area_L id_Occipital_Inf_L"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -177.296310,-158.097946 C -54.872581,-112.511856 60.383858,139.502869 14.797772,261.926605"
+              class="id_Supp_Motor_Area_L id_Fusiform_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -177.296310,-158.097946 C -112.599998,-39.006798 -194.192230,236.674347 -313.283386,301.370667"
+              class="id_Supp_Motor_Area_L id_Fusiform_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -177.296310,-158.097946 C -141.903549,-304.960083 131.478790,-472.164185 278.340942,-436.771423"
+              class="id_Supp_Motor_Area_L id_Parietal_Sup_L"
+              stroke-opacity="1.0" stroke="#61a4a7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -177.296310,-158.097946 C -128.508209,-130.124908 -97.285583,-14.983237 -125.258621,33.804867"
+              class="id_Supp_Motor_Area_L id_Parietal_Inf_L"
+              stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -177.296310,-158.097946 C -156.997452,-238.017776 -6.669449,-327.449249 73.250381,-307.150391"
+              class="id_Supp_Motor_Area_L id_Parietal_Inf_R"
+              stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -392.120911,59.057686 C -297.936218,72.299133 -176.521332,233.438354 -189.762772,327.623047"
+              class="id_Supp_Motor_Area_R id_Frontal_Mid_Orb_L.1"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -392.120911,59.057686 C -321.434570,129.594849 -321.210815,341.430054 -391.747986,412.116394"
+              class="id_Supp_Motor_Area_R id_Insula_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -392.120911,59.057686 C -409.530792,17.343418 -373.074158,-71.342773 -331.359894,-88.752632"
+              class="id_Supp_Motor_Area_R id_Cingulum_Mid_R"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -392.120911,59.057686 C -430.418182,113.191879 -569.065369,136.947266 -623.199524,98.650002"
+              class="id_Supp_Motor_Area_R id_Cuneus_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -392.120911,59.057686 C -294.910797,106.806763 -220.719269,324.245544 -268.468323,421.455658"
+              class="id_Supp_Motor_Area_R id_Lingual_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -392.120911,59.057686 C -392.723969,93.585190 -445.419739,144.471878 -479.947235,143.868851"
+              class="id_Supp_Motor_Area_R id_Lingual_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -392.120911,59.057686 C -358.074493,109.587280 -382.799286,236.451279 -433.328857,270.497681"
+              class="id_Supp_Motor_Area_R id_Occipital_Sup_L"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -392.120911,59.057686 C -387.898529,129.871857 -487.786224,242.426651 -558.600403,246.649017"
+              class="id_Supp_Motor_Area_R id_Occipital_Sup_R"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -392.120911,59.057686 C -361.862457,44.497795 -294.634949,68.045647 -280.075043,98.304100"
+              class="id_Supp_Motor_Area_R id_Occipital_Mid_R"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -392.120911,59.057686 C -359.248627,76.745880 -336.472534,152.586563 -354.160736,185.458832"
+              class="id_Supp_Motor_Area_R id_Occipital_Inf_L"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -392.120911,59.057686 C -270.163391,18.247734 -26.012173,139.969086 14.797772,261.926605"
+              class="id_Supp_Motor_Area_R id_Fusiform_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -392.120911,59.057686 C -327.890808,91.752777 -280.588318,237.140564 -313.283386,301.370667"
+              class="id_Supp_Motor_Area_R id_Fusiform_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -392.120911,59.057686 C -343.799011,0.634659 -183.681656,-14.517033 -125.258621,33.804867"
+              class="id_Supp_Motor_Area_R id_Parietal_Inf_L"
+              stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 229.902359,-205.307831 C 206.692703,-86.453094 -6.403885,57.014523 -125.258621,33.804867"
+              class="id_Frontal_Sup_Medial_L id_Parietal_Inf_L"
+              stroke-opacity="1.0" stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 229.902359,-205.307831 C 178.203445,-194.345947 84.212265,-255.451492 73.250381,-307.150391"
+              class="id_Frontal_Sup_Medial_L id_Parietal_Inf_R"
+              stroke-opacity="1.0" stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.762772,327.623047 C -213.261154,384.918762 -334.452271,435.614746 -391.747986,412.116394"
+              class="id_Frontal_Mid_Orb_L.1 id_Insula_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.762772,327.623047 C -301.357330,272.667328 -386.315613,22.841934 -331.359894,-88.752632"
+              class="id_Frontal_Mid_Orb_L.1 id_Cingulum_Mid_R"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.762772,327.623047 C -322.244751,368.515778 -582.306763,231.131958 -623.199524,98.650002"
+              class="id_Frontal_Mid_Orb_L.1 id_Cuneus_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.762772,327.623047 C -186.737350,362.130676 -233.960693,418.430267 -268.468323,421.455658"
+              class="id_Frontal_Mid_Orb_L.1 id_Lingual_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.762772,327.623047 C -284.550507,348.909088 -458.661194,238.656586 -479.947235,143.868851"
+              class="id_Frontal_Mid_Orb_L.1 id_Lingual_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.762772,327.623047 C -249.901062,364.911194 -396.040710,330.635986 -433.328857,270.497681"
+              class="id_Frontal_Mid_Orb_L.1 id_Occipital_Sup_L"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.762772,327.623047 C -279.725098,385.195801 -501.027679,336.611328 -558.600403,246.649017"
+              class="id_Frontal_Mid_Orb_L.1 id_Occipital_Sup_R"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.762772,327.623047 C -253.689011,299.821716 -307.876404,162.230331 -280.075043,98.304100"
+              class="id_Frontal_Mid_Orb_L.1 id_Occipital_Mid_R"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.762772,327.623047 C -251.075211,332.069763 -349.713989,246.771271 -354.160736,185.458832"
+              class="id_Frontal_Mid_Orb_L.1 id_Occipital_Inf_L"
+              stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.762772,327.623047 C -161.989944,273.571655 -39.253632,234.153778 14.797772,261.926605"
+              class="id_Frontal_Mid_Orb_L.1 id_Fusiform_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.762772,327.623047 C -219.717361,347.076691 -293.829742,331.325287 -313.283386,301.370667"
+              class="id_Frontal_Mid_Orb_L.1 id_Fusiform_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.762772,327.623047 C -235.625580,255.958572 -196.923096,79.667671 -125.258621,33.804867"
+              class="id_Frontal_Mid_Orb_L.1 id_Parietal_Inf_L"
+              stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 826.185425,-328.936279 C 825.579773,-229.622070 675.699951,-81.559288 576.385803,-82.164940"
+              class="id_Insula_L id_Cingulum_Mid_L" stroke-opacity="1.0"
+              stroke="#909556"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 826.185425,-328.936279 C 844.799744,-377.214172 945.138123,-421.709534 993.416016,-403.095215"
+              class="id_Insula_L id_Occipital_Mid_L" stroke-opacity="1.0"
+              stroke="#28b36a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -391.747986,412.116394 C -479.844177,299.864990 -443.611298,-0.656452 -331.359894,-88.752632"
+              class="id_Insula_R id_Cingulum_Mid_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -391.747986,412.116394 C -500.731567,395.713440 -639.602539,207.633575 -623.199524,98.650002"
+              class="id_Insula_R id_Cuneus_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -391.747986,412.116394 C -365.224182,389.328308 -291.256409,394.931854 -268.468323,421.455658"
+              class="id_Insula_R id_Lingual_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -391.747986,412.116394 C -463.037354,376.106750 -515.956909,215.158203 -479.947235,143.868851"
+              class="id_Insula_R id_Lingual_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -391.747986,412.116394 C -428.387878,392.108826 -453.336426,307.137573 -433.328857,270.497681"
+              class="id_Insula_R id_Occipital_Sup_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -391.747986,412.116394 C -458.211945,412.393402 -558.323364,313.112976 -558.600403,246.649017"
+              class="id_Insula_R id_Occipital_Sup_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -391.747986,412.116394 C -432.175842,327.019348 -365.172089,138.731964 -280.075043,98.304100"
+              class="id_Insula_R id_Occipital_Mid_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -391.747986,412.116394 C -429.562042,359.267426 -407.009705,223.272888 -354.160736,185.458832"
+              class="id_Insula_R id_Occipital_Inf_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -391.747986,412.116394 C -340.476807,300.769287 -96.549332,210.655426 14.797772,261.926605"
+              class="id_Insula_R id_Fusiform_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -391.747986,412.116394 C -398.204193,374.274323 -351.125458,307.826874 -313.283386,301.370667"
+              class="id_Insula_R id_Fusiform_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -391.747986,412.116394 C -414.112427,283.156219 -254.218811,56.169300 -125.258621,33.804867"
+              class="id_Insula_R id_Parietal_Inf_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 448.719421,138.837097 C 430.052277,69.103409 506.652130,-63.497807 576.385803,-82.164940"
+              class="id_Cingulum_Ant_R id_Cingulum_Mid_L" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 448.719421,138.837097 C 451.719482,116.691795 489.437561,87.973946 511.582855,90.974014"
+              class="id_Cingulum_Ant_R id_Hippocampus_L" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 448.719421,138.837097 C 386.552979,250.239334 126.200012,324.093018 14.797772,261.926605"
+              class="id_Cingulum_Ant_R id_Fusiform_L" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 576.385803,-82.164940 C 393.519135,98.066673 -151.128281,94.114052 -331.359894,-88.752632"
+              class="id_Cingulum_Mid_L id_Cingulum_Mid_R" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 576.385803,-82.164940 C 598.053040,-34.576561 559.171265,69.306816 511.582855,90.974014"
+              class="id_Cingulum_Mid_L id_Hippocampus_L" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 576.385803,-82.164940 C 532.886536,98.970978 195.933685,305.425903 14.797772,261.926605"
+              class="id_Cingulum_Mid_L id_Fusiform_L" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -331.359894,-88.752632 C -352.247284,7.095825 -527.351074,119.537399 -623.199524,98.650002"
+              class="id_Cingulum_Mid_R id_Cuneus_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -331.359894,-88.752632 C -216.739929,0.710710 -179.004974,306.835693 -268.468323,421.455658"
+              class="id_Cingulum_Mid_R id_Lingual_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -331.359894,-88.752632 C -314.553070,-12.510864 -403.705475,127.062019 -479.947235,143.868851"
+              class="id_Cingulum_Mid_R id_Lingual_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -331.359894,-88.752632 C -279.903625,3.491220 -341.084991,219.041412 -433.328857,270.497681"
+              class="id_Cingulum_Mid_R id_Occipital_Sup_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -331.359894,-88.752632 C -309.727661,23.775803 -446.071960,225.016800 -558.600403,246.649017"
+              class="id_Cingulum_Mid_R id_Occipital_Sup_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -331.359894,-88.752632 C -283.691589,-61.598255 -252.920654,50.635784 -280.075043,98.304100"
+              class="id_Cingulum_Mid_R id_Occipital_Mid_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -331.359894,-88.752632 C -281.077789,-29.350170 -294.758270,135.176712 -354.160736,185.458832"
+              class="id_Cingulum_Mid_R id_Occipital_Inf_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -331.359894,-88.752632 C -191.992508,-87.848312 15.702091,122.559227 14.797772,261.926605"
+              class="id_Cingulum_Mid_R id_Fusiform_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -331.359894,-88.752632 C -249.719940,-14.343275 -238.874023,219.730713 -313.283386,301.370667"
+              class="id_Cingulum_Mid_R id_Fusiform_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -331.359894,-88.752632 C -265.628143,-105.461395 -141.967377,-31.926891 -125.258621,33.804867"
+              class="id_Cingulum_Mid_R id_Parietal_Inf_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -331.359894,-88.752632 C -294.117401,-213.354248 -51.351231,-344.392883 73.250381,-307.150391"
+              class="id_Cingulum_Mid_R id_Parietal_Inf_R" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 511.582855,90.974014 C 446.416351,224.521545 148.345306,327.093109 14.797772,261.926605"
+              class="id_Hippocampus_L id_Fusiform_L" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -623.199524,98.650002 C -487.692169,92.264893 -274.853424,285.948303 -268.468323,421.455658"
+              class="id_Cuneus_L id_Lingual_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -623.199524,98.650002 C -585.505310,79.043312 -499.553925,106.174614 -479.947235,143.868851"
+              class="id_Cuneus_L id_Lingual_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -623.199524,98.650002 C -550.855835,95.045395 -436.933441,198.154007 -433.328857,270.497681"
+              class="id_Cuneus_L id_Occipital_Sup_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -623.199524,98.650002 C -580.679932,115.329979 -541.920410,204.129379 -558.600403,246.649017"
+              class="id_Cuneus_L id_Occipital_Sup_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -623.199524,98.650002 C -554.643799,29.955917 -348.769135,29.748383 -280.075043,98.304100"
+              class="id_Cuneus_L id_Occipital_Mid_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -623.199524,98.650002 C -552.030029,62.204006 -390.606750,114.289307 -354.160736,185.458832"
+              class="id_Cuneus_L id_Occipital_Inf_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -623.199524,98.650002 C -462.944763,3.705872 -80.146362,101.671829 14.797772,261.926605"
+              class="id_Cuneus_L id_Fusiform_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -623.199524,98.650002 C -520.672180,77.210907 -334.722473,198.843307 -313.283386,301.370667"
+              class="id_Cuneus_L id_Fusiform_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -623.199524,98.650002 C -691.346680,143.862701 -861.386536,109.460968 -906.599243,41.313778"
+              class="id_Cuneus_L id_Postcentral_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -623.199524,98.650002 C -536.580383,-13.907219 -237.815826,-52.814293 -125.258621,33.804867"
+              class="id_Cuneus_L id_Parietal_Inf_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -268.468323,421.455658 C -366.281464,408.234070 -493.168823,241.681976 -479.947235,143.868851"
+              class="id_Lingual_L id_Lingual_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -268.468323,421.455658 C -331.632019,424.236176 -430.548340,333.661377 -433.328857,270.497681"
+              class="id_Lingual_L id_Occipital_Sup_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -268.468323,421.455658 C -361.456085,444.520752 -535.535278,339.636780 -558.600403,246.649017"
+              class="id_Lingual_L id_Occipital_Sup_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -268.468323,421.455658 C -335.419983,359.146698 -342.384003,165.255768 -280.075043,98.304100"
+              class="id_Lingual_L id_Occipital_Mid_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -268.468323,421.455658 C -332.806183,391.394775 -384.221619,249.796692 -354.160736,185.458832"
+              class="id_Lingual_L id_Occipital_Inf_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -268.468323,421.455658 C -243.720917,332.896606 -73.761261,237.179214 14.797772,261.926605"
+              class="id_Lingual_L id_Fusiform_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -268.468323,421.455658 C -301.448334,406.401672 -328.337372,334.350677 -313.283386,301.370667"
+              class="id_Lingual_L id_Fusiform_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -268.468323,421.455658 C -317.356537,315.283569 -231.430725,82.693085 -125.258621,33.804867"
+              class="id_Lingual_L id_Parietal_Inf_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.947235,143.868851 C -445.297791,159.870941 -417.326752,235.848251 -433.328857,270.497681"
+              class="id_Lingual_R id_Occipital_Sup_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.947235,143.868851 C -475.121826,180.155518 -522.313721,241.823624 -558.600403,246.649017"
+              class="id_Lingual_R id_Occipital_Sup_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.947235,143.868851 C -449.085724,94.781464 -329.162445,67.442612 -280.075043,98.304100"
+              class="id_Lingual_R id_Occipital_Mid_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.947235,143.868851 C -446.471954,127.029541 -371.000031,151.983536 -354.160736,185.458832"
+              class="id_Lingual_R id_Occipital_Inf_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.947235,143.868851 C -357.386688,68.531410 -60.539673,139.366058 14.797772,261.926605"
+              class="id_Lingual_R id_Fusiform_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.947235,143.868851 C -415.114105,142.036438 -315.115784,236.537537 -313.283386,301.370667"
+              class="id_Lingual_R id_Fusiform_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.947235,143.868851 C -431.022308,50.918327 -218.209152,-15.120056 -125.258621,33.804867"
+              class="id_Lingual_R id_Parietal_Inf_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -433.328857,270.497681 C -463.152924,290.782257 -538.315796,276.473053 -558.600403,246.649017"
+              class="id_Occipital_Sup_L id_Occipital_Sup_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -433.328857,270.497681 C -437.116821,205.408203 -345.164520,102.092049 -280.075043,98.304100"
+              class="id_Occipital_Sup_L id_Occipital_Mid_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -433.328857,270.497681 C -434.503021,237.656296 -387.002136,186.632980 -354.160736,185.458832"
+              class="id_Occipital_Sup_L id_Occipital_Inf_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -433.328857,270.497681 C -345.417755,179.158157 -76.541763,174.015488 14.797772,261.926605"
+              class="id_Occipital_Sup_L id_Fusiform_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -433.328857,270.497681 C -403.145172,252.663177 -331.117889,271.186981 -313.283386,301.370667"
+              class="id_Occipital_Sup_L id_Fusiform_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -433.328857,270.497681 C -419.053375,161.545074 -234.211243,19.529381 -125.258621,33.804867"
+              class="id_Occipital_Sup_L id_Parietal_Inf_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -558.600403,246.649017 C -532.564331,161.274963 -365.449097,72.268013 -280.075043,98.304100"
+              class="id_Occipital_Sup_R id_Occipital_Mid_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -558.600403,246.649017 C -529.950500,193.523041 -407.286713,156.808929 -354.160736,185.458832"
+              class="id_Occipital_Sup_R id_Occipital_Inf_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -558.600403,246.649017 C -440.865265,135.024887 -96.826347,144.191452 14.797772,261.926605"
+              class="id_Occipital_Sup_R id_Fusiform_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -558.600403,246.649017 C -498.592651,208.529953 -351.402466,241.362930 -313.283386,301.370667"
+              class="id_Occipital_Sup_R id_Fusiform_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -558.600403,246.649017 C -514.500854,117.411827 -254.495804,-10.294662 -125.258621,33.804867"
+              class="id_Occipital_Sup_R id_Parietal_Inf_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -280.075043,98.304100 C -277.461243,130.552185 -321.912659,182.845016 -354.160736,185.458832"
+              class="id_Occipital_Mid_R id_Occipital_Inf_L" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -280.075043,98.304100 C -188.375977,72.054031 -11.452293,170.227539 14.797772,261.926605"
+              class="id_Occipital_Mid_R id_Fusiform_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -280.075043,98.304100 C -246.103394,145.559067 -266.028412,267.399017 -313.283386,301.370667"
+              class="id_Occipital_Mid_R id_Fusiform_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -280.075043,98.304100 C -262.011597,54.440964 -169.121750,15.741430 -125.258621,33.804867"
+              class="id_Occipital_Mid_R id_Parietal_Inf_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -354.160736,185.458832 C -265.075470,126.960678 -43.700375,172.841354 14.797772,261.926605"
+              class="id_Occipital_Inf_L id_Fusiform_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -354.160736,185.458832 C -322.802887,200.465729 -298.276489,270.012817 -313.283386,301.370667"
+              class="id_Occipital_Inf_L id_Fusiform_R" stroke-opacity="1.0"
+              stroke="#9a96e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -354.160736,185.458832 C -338.711090,109.347610 -201.369843,18.355236 -125.258621,33.804867"
+              class="id_Occipital_Inf_L id_Parietal_Inf_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 14.797772,261.926605 C -42.929649,335.431671 -239.778336,359.098083 -313.283386,301.370667"
+              class="id_Fusiform_L id_Fusiform_R" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 14.797772,261.926605 C -58.837852,244.313538 -142.871689,107.440491 -125.258621,33.804867"
+              class="id_Fusiform_L id_Parietal_Inf_L" stroke-opacity="1.0"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -313.283386,301.370667 C -329.191589,210.252563 -216.376740,49.713070 -125.258621,33.804867"
+              class="id_Fusiform_R id_Parietal_Inf_L" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -125.258621,33.804867 C -153.747879,-74.087990 -34.642475,-278.661133 73.250381,-307.150391"
+              class="id_Parietal_Inf_L id_Parietal_Inf_R" stroke-opacity="1.0"
+              stroke="#f97743"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#28b36a" r="20.726608" cx="574.7097"
+                class="id_Precentral_L" cy="-359.38242" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#28b36a" r="10.0" cx="729.8135"
+                class="id_Precentral_R" cy="-322.98376" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.0" cx="-506.2379"
+                class="id_Frontal_Sup_L" cy="364.06467" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="10.0" cx="-144.48936"
+                class="id_Frontal_Sup_R" cy="-402.2153" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="10.0" cx="434.07248"
+                class="id_Frontal_Sup_Orb_L" cy="52.554638" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="50.0" cx="78.06869"
+                class="id_Frontal_Mid_L" cy="42.550045" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="42.55341" cx="439.25705"
+                class="id_Frontal_Mid_R" cy="-168.44427" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.0" cx="-491.50937"
+                class="id_Frontal_Mid_Orb_L" cy="0.5851954" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.0" cx="-216.26367"
+                class="id_Frontal_Inf_Oper_L" cy="207.53561" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#28b36a" r="10.0" cx="756.60895"
+                class="id_Frontal_Inf_Oper_R" cy="-259.14166" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="10.0" cx="218.55672"
+                class="id_Frontal_Inf_Tri_L" cy="-276.86322" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="41.450928" cx="-177.29631"
+                class="id_Supp_Motor_Area_L" cy="-158.09795" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.0" cx="-392.1209"
+                class="id_Supp_Motor_Area_R" cy="59.057686" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="10.0" cx="229.90236"
+                class="id_Frontal_Sup_Medial_L" cy="-205.30783" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.0" cx="-189.76277"
+                class="id_Frontal_Mid_Orb_L.1" cy="327.62305" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#28b36a" r="25.834572" cx="826.1854"
+                class="id_Insula_L" cy="-328.93628" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.0" cx="-391.748"
+                class="id_Insula_R" cy="412.1164" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="10.0" cx="448.71942"
+                class="id_Cingulum_Ant_R" cy="138.8371" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="32.11699" cx="576.3858"
+                class="id_Cingulum_Mid_L" cy="-82.16494" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="24.702389" cx="-331.3599"
+                class="id_Cingulum_Mid_R" cy="-88.75263" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="10.0" cx="511.58286"
+                class="id_Hippocampus_L" cy="90.974014" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="25.834572" cx="-623.1995"
+                class="id_Cuneus_L" cy="98.65" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.0" cx="-268.46832"
+                class="id_Lingual_L" cy="421.45566" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.0" cx="-479.94724"
+                class="id_Lingual_R" cy="143.86885" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.0" cx="-433.32886"
+                class="id_Occipital_Sup_L" cy="270.49768" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.0" cx="-558.6004"
+                class="id_Occipital_Sup_R" cy="246.64902" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#28b36a" r="10.0" cx="993.416"
+                class="id_Occipital_Mid_L" cy="-403.0952" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.0" cx="-280.07504"
+                class="id_Occipital_Mid_R" cy="98.3041" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.0" cx="-354.16074"
+                class="id_Occipital_Inf_L" cy="185.45883" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="36.702843" cx="14.797772"
+                class="id_Fusiform_L" cy="261.9266" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.0" cx="-313.2834"
+                class="id_Fusiform_R" cy="301.37067" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.0" cx="-906.59924"
+                class="id_Postcentral_L" cy="41.313778" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#28b36a" r="10.0" cx="278.34094"
+                class="id_Parietal_Sup_L" cy="-436.77142" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="26.996458" cx="-125.25862"
+                class="id_Parietal_Inf_L" cy="33.804867" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="13.882097" cx="73.25038"
+                class="id_Parietal_Inf_R" cy="-307.1504" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="50" x="574.7097" y="-347.95053" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Precentral_L">
+            Precentral_L
+        </text>
+        <text font-size="24" x="729.8135" y="-317.49646" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Precentral_R">
+            Precentral_R
+        </text>
+        <text font-size="24" x="-506.2379" y="369.6252" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Frontal_Sup_L">
+            Frontal_Sup_L
+        </text>
+        <text font-size="24" x="-144.48936" y="-396.65475" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Frontal_Sup_R">
+            Frontal_Sup_R
+        </text>
+        <text font-size="24" x="434.07248" y="58.118114" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Frontal_Sup_Orb_L">
+            Frontal_Sup_Orb_L
+        </text>
+        <text font-size="120" x="78.06869" y="69.98657" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Frontal_Mid_L">
+            Frontal_Mid_L
+        </text>
+        <text font-size="102" x="439.25705" y="-145.12323" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Frontal_Mid_R">
+            Frontal_Mid_R
+        </text>
+        <text font-size="24" x="-491.50937" y="6.148672" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Frontal_Mid_Orb_L">
+            Frontal_Mid_Orb_L
+        </text>
+        <text font-size="24" x="-216.26367" y="213.09909" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Frontal_Inf_Oper_L">
+            Frontal_Inf_Oper_L
+        </text>
+        <text font-size="24" x="756.60895" y="-253.57819" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Frontal_Inf_Oper_R">
+            Frontal_Inf_Oper_R
+        </text>
+        <text font-size="24" x="218.55672" y="-271.30267" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Frontal_Inf_Tri_L">
+            Frontal_Inf_Tri_L
+        </text>
+        <text font-size="99" x="-177.29631" y="-135.16069" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Supp_Motor_Area_L">
+            Supp_Motor_Area_L
+        </text>
+        <text font-size="24" x="-392.1209" y="64.61823" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Supp_Motor_Area_R">
+            Supp_Motor_Area_R
+        </text>
+        <text font-size="24" x="229.90236" y="-199.74728" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Frontal_Sup_Medial_L">
+            Frontal_Sup_Medial_L
+        </text>
+        <text font-size="24" x="-189.76277" y="333.18652" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Frontal_Mid_Orb_L.1">
+            Frontal_Mid_Orb_L.1
+        </text>
+        <text font-size="62" x="826.1854" y="-314.76074" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Insula_L">
+            Insula_L
+        </text>
+        <text font-size="24" x="-391.748" y="417.6037" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Insula_R">
+            Insula_R
+        </text>
+        <text font-size="24" x="448.71942" y="144.46796" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cingulum_Ant_R">
+            Cingulum_Ant_R
+        </text>
+        <text font-size="77" x="576.3858" y="-64.099266" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cingulum_Mid_L">
+            Cingulum_Mid_L
+        </text>
+        <text font-size="59" x="-331.3599" y="-74.9101" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cingulum_Mid_R">
+            Cingulum_Mid_R
+        </text>
+        <text font-size="24" x="511.58286" y="96.46132" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hippocampus_L">
+            Hippocampus_L
+        </text>
+        <text font-size="62" x="-623.1995" y="113.01475" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cuneus_L">
+            Cuneus_L
+        </text>
+        <text font-size="24" x="-268.46832" y="427.01328" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lingual_L">
+            Lingual_L
+        </text>
+        <text font-size="24" x="-479.94724" y="149.42647" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lingual_R">
+            Lingual_R
+        </text>
+        <text font-size="24" x="-433.32886" y="276.06116" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Occipital_Sup_L">
+            Occipital_Sup_L
+        </text>
+        <text font-size="24" x="-558.6004" y="252.2125" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Occipital_Sup_R">
+            Occipital_Sup_R
+        </text>
+        <text font-size="24" x="993.416" y="-397.53174" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Occipital_Mid_L">
+            Occipital_Mid_L
+        </text>
+        <text font-size="24" x="-280.07504" y="103.86758" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Occipital_Mid_R">
+            Occipital_Mid_R
+        </text>
+        <text font-size="24" x="-354.16074" y="191.02231" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Occipital_Inf_L">
+            Occipital_Inf_L
+        </text>
+        <text font-size="88" x="14.797772" y="282.31528" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fusiform_L">
+            Fusiform_L
+        </text>
+        <text font-size="24" x="-313.2834" y="306.9312" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fusiform_R">
+            Fusiform_R
+        </text>
+        <text font-size="24" x="-906.59924" y="46.801083" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Postcentral_L">
+            Postcentral_L
+        </text>
+        <text font-size="24" x="278.34094" y="-431.21088" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Parietal_Sup_L">
+            Parietal_Sup_L
+        </text>
+        <text font-size="65" x="-125.25862" y="48.86468" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Parietal_Inf_L">
+            Parietal_Inf_L
+        </text>
+        <text font-size="33" x="73.25038" y="-299.50464" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Parietal_Inf_R">
+            Parietal_Inf_R
+        </text>
+    </g>
+</svg>

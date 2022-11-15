@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-11-14">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Precentral_L" label="Precentral_L" />
+      <node id="Precentral_R" label="Precentral_R" />
+      <node id="Frontal_Sup_L" label="Frontal_Sup_L" />
+      <node id="Frontal_Sup_R" label="Frontal_Sup_R" />
+      <node id="Frontal_Sup_Orb_L" label="Frontal_Sup_Orb_L" />
+      <node id="Frontal_Mid_L" label="Frontal_Mid_L" />
+      <node id="Frontal_Mid_R" label="Frontal_Mid_R" />
+      <node id="Frontal_Mid_Orb_L" label="Frontal_Mid_Orb_L" />
+      <node id="Frontal_Inf_Oper_L" label="Frontal_Inf_Oper_L" />
+      <node id="Frontal_Inf_Oper_R" label="Frontal_Inf_Oper_R" />
+      <node id="Frontal_Inf_Tri_L" label="Frontal_Inf_Tri_L" />
+      <node id="Supp_Motor_Area_L" label="Supp_Motor_Area_L" />
+      <node id="Supp_Motor_Area_R" label="Supp_Motor_Area_R" />
+      <node id="Frontal_Sup_Medial_L" label="Frontal_Sup_Medial_L" />
+      <node id="Frontal_Mid_Orb_L.1" label="Frontal_Mid_Orb_L.1" />
+      <node id="Insula_L" label="Insula_L" />
+      <node id="Insula_R" label="Insula_R" />
+      <node id="Cingulum_Ant_R" label="Cingulum_Ant_R" />
+      <node id="Cingulum_Mid_L" label="Cingulum_Mid_L" />
+      <node id="Cingulum_Mid_R" label="Cingulum_Mid_R" />
+      <node id="Hippocampus_L" label="Hippocampus_L" />
+      <node id="Cuneus_L" label="Cuneus_L" />
+      <node id="Lingual_L" label="Lingual_L" />
+      <node id="Lingual_R" label="Lingual_R" />
+      <node id="Occipital_Sup_L" label="Occipital_Sup_L" />
+      <node id="Occipital_Sup_R" label="Occipital_Sup_R" />
+      <node id="Occipital_Mid_L" label="Occipital_Mid_L" />
+      <node id="Occipital_Mid_R" label="Occipital_Mid_R" />
+      <node id="Occipital_Inf_L" label="Occipital_Inf_L" />
+      <node id="Fusiform_L" label="Fusiform_L" />
+      <node id="Fusiform_R" label="Fusiform_R" />
+      <node id="Postcentral_L" label="Postcentral_L" />
+      <node id="Parietal_Sup_L" label="Parietal_Sup_L" />
+      <node id="Parietal_Inf_L" label="Parietal_Inf_L" />
+      <node id="Parietal_Inf_R" label="Parietal_Inf_R" />
+    </nodes>
+    <edges>
+      <edge source="Precentral_L" target="Precentral_R" id="0" weight="1.0" />
+      <edge source="Precentral_L" target="Frontal_Mid_R" id="1" weight="1.0" />
+      <edge source="Precentral_L" target="Frontal_Inf_Oper_R" id="2" weight="1.0" />
+      <edge source="Precentral_L" target="Supp_Motor_Area_L" id="3" weight="1.0" />
+      <edge source="Precentral_L" target="Insula_L" id="4" weight="1.0" />
+      <edge source="Precentral_L" target="Cingulum_Mid_L" id="5" weight="1.0" />
+      <edge source="Precentral_L" target="Parietal_Sup_L" id="6" weight="1.0" />
+      <edge source="Precentral_R" target="Frontal_Mid_R" id="7" weight="1.0" />
+      <edge source="Precentral_R" target="Frontal_Inf_Oper_R" id="8" weight="2.0" />
+      <edge source="Precentral_R" target="Insula_L" id="9" weight="2.0" />
+      <edge source="Precentral_R" target="Cingulum_Mid_L" id="10" weight="1.0" />
+      <edge source="Frontal_Sup_L" target="Frontal_Mid_L" id="11" weight="1.0" />
+      <edge source="Frontal_Sup_L" target="Frontal_Mid_Orb_L" id="12" weight="1.0" />
+      <edge source="Frontal_Sup_L" target="Frontal_Inf_Oper_L" id="13" weight="1.0" />
+      <edge source="Frontal_Sup_L" target="Supp_Motor_Area_L" id="14" weight="1.0" />
+      <edge source="Frontal_Sup_L" target="Supp_Motor_Area_R" id="15" weight="1.0" />
+      <edge source="Frontal_Sup_L" target="Frontal_Mid_Orb_L.1" id="16" weight="1.0" />
+      <edge source="Frontal_Sup_L" target="Insula_R" id="17" weight="1.0" />
+      <edge source="Frontal_Sup_L" target="Cingulum_Mid_R" id="18" weight="1.0" />
+      <edge source="Frontal_Sup_L" target="Cuneus_L" id="19" weight="1.0" />
+      <edge source="Frontal_Sup_L" target="Lingual_L" id="20" weight="1.0" />
+      <edge source="Frontal_Sup_L" target="Lingual_R" id="21" weight="1.0" />
+      <edge source="Frontal_Sup_L" target="Occipital_Sup_L" id="22" weight="1.0" />
+      <edge source="Frontal_Sup_L" target="Occipital_Sup_R" id="23" weight="1.0" />
+      <edge source="Frontal_Sup_L" target="Occipital_Mid_R" id="24" weight="1.0" />
+      <edge source="Frontal_Sup_L" target="Occipital_Inf_L" id="25" weight="1.0" />
+      <edge source="Frontal_Sup_L" target="Fusiform_L" id="26" weight="1.0" />
+      <edge source="Frontal_Sup_L" target="Fusiform_R" id="27" weight="1.0" />
+      <edge source="Frontal_Sup_L" target="Parietal_Inf_L" id="28" weight="1.0" />
+      <edge source="Frontal_Sup_R" target="Supp_Motor_Area_L" id="29" weight="1.0" />
+      <edge source="Frontal_Sup_R" target="Cingulum_Mid_R" id="30" weight="1.0" />
+      <edge source="Frontal_Sup_R" target="Parietal_Inf_R" id="31" weight="1.0" />
+      <edge source="Frontal_Sup_Orb_L" target="Frontal_Mid_L" id="32" weight="1.0" />
+      <edge source="Frontal_Sup_Orb_L" target="Frontal_Mid_R" id="33" weight="1.0" />
+      <edge source="Frontal_Sup_Orb_L" target="Cingulum_Ant_R" id="34" weight="1.0" />
+      <edge source="Frontal_Sup_Orb_L" target="Cingulum_Mid_L" id="35" weight="1.0" />
+      <edge source="Frontal_Sup_Orb_L" target="Hippocampus_L" id="36" weight="1.0" />
+      <edge source="Frontal_Sup_Orb_L" target="Fusiform_L" id="37" weight="1.0" />
+      <edge source="Frontal_Mid_L" target="Frontal_Mid_R" id="38" weight="2.0" />
+      <edge source="Frontal_Mid_L" target="Frontal_Mid_Orb_L" id="39" weight="1.0" />
+      <edge source="Frontal_Mid_L" target="Frontal_Inf_Oper_L" id="40" weight="1.0" />
+      <edge source="Frontal_Mid_L" target="Frontal_Inf_Tri_L" id="41" weight="1.0" />
+      <edge source="Frontal_Mid_L" target="Supp_Motor_Area_L" id="42" weight="1.0" />
+      <edge source="Frontal_Mid_L" target="Supp_Motor_Area_R" id="43" weight="1.0" />
+      <edge source="Frontal_Mid_L" target="Frontal_Sup_Medial_L" id="44" weight="1.0" />
+      <edge source="Frontal_Mid_L" target="Frontal_Mid_Orb_L.1" id="45" weight="1.0" />
+      <edge source="Frontal_Mid_L" target="Insula_R" id="46" weight="1.0" />
+      <edge source="Frontal_Mid_L" target="Cingulum_Ant_R" id="47" weight="1.0" />
+      <edge source="Frontal_Mid_L" target="Cingulum_Mid_L" id="48" weight="1.0" />
+      <edge source="Frontal_Mid_L" target="Cingulum_Mid_R" id="49" weight="1.0" />
+      <edge source="Frontal_Mid_L" target="Hippocampus_L" id="50" weight="1.0" />
+      <edge source="Frontal_Mid_L" target="Cuneus_L" id="51" weight="1.0" />
+      <edge source="Frontal_Mid_L" target="Lingual_L" id="52" weight="1.0" />
+      <edge source="Frontal_Mid_L" target="Lingual_R" id="53" weight="1.0" />
+      <edge source="Frontal_Mid_L" target="Occipital_Sup_L" id="54" weight="1.0" />
+      <edge source="Frontal_Mid_L" target="Occipital_Sup_R" id="55" weight="1.0" />
+      <edge source="Frontal_Mid_L" target="Occipital_Mid_R" id="56" weight="1.0" />
+      <edge source="Frontal_Mid_L" target="Occipital_Inf_L" id="57" weight="1.0" />
+      <edge source="Frontal_Mid_L" target="Fusiform_L" id="58" weight="2.0" />
+      <edge source="Frontal_Mid_L" target="Fusiform_R" id="59" weight="1.0" />
+      <edge source="Frontal_Mid_L" target="Parietal_Inf_L" id="60" weight="2.0" />
+      <edge source="Frontal_Mid_L" target="Parietal_Inf_R" id="61" weight="1.0" />
+      <edge source="Frontal_Mid_R" target="Frontal_Inf_Oper_R" id="62" weight="1.0" />
+      <edge source="Frontal_Mid_R" target="Frontal_Inf_Tri_L" id="63" weight="1.0" />
+      <edge source="Frontal_Mid_R" target="Frontal_Sup_Medial_L" id="64" weight="1.0" />
+      <edge source="Frontal_Mid_R" target="Insula_L" id="65" weight="1.0" />
+      <edge source="Frontal_Mid_R" target="Cingulum_Ant_R" id="66" weight="1.0" />
+      <edge source="Frontal_Mid_R" target="Cingulum_Mid_L" id="67" weight="2.0" />
+      <edge source="Frontal_Mid_R" target="Hippocampus_L" id="68" weight="1.0" />
+      <edge source="Frontal_Mid_R" target="Fusiform_L" id="69" weight="1.0" />
+      <edge source="Frontal_Mid_R" target="Parietal_Inf_L" id="70" weight="1.0" />
+      <edge source="Frontal_Mid_R" target="Parietal_Inf_R" id="71" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L" target="Frontal_Inf_Oper_L" id="72" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L" target="Supp_Motor_Area_L" id="73" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L" target="Supp_Motor_Area_R" id="74" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L" target="Frontal_Mid_Orb_L.1" id="75" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L" target="Insula_R" id="76" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L" target="Cingulum_Mid_R" id="77" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L" target="Cuneus_L" id="78" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L" target="Lingual_L" id="79" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L" target="Lingual_R" id="80" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L" target="Occipital_Sup_L" id="81" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L" target="Occipital_Sup_R" id="82" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L" target="Occipital_Mid_R" id="83" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L" target="Occipital_Inf_L" id="84" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L" target="Fusiform_L" id="85" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L" target="Fusiform_R" id="86" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L" target="Parietal_Inf_L" id="87" weight="1.0" />
+      <edge source="Frontal_Inf_Oper_L" target="Supp_Motor_Area_L" id="88" weight="1.0" />
+      <edge source="Frontal_Inf_Oper_L" target="Supp_Motor_Area_R" id="89" weight="1.0" />
+      <edge source="Frontal_Inf_Oper_L" target="Frontal_Mid_Orb_L.1" id="90" weight="1.0" />
+      <edge source="Frontal_Inf_Oper_L" target="Insula_R" id="91" weight="1.0" />
+      <edge source="Frontal_Inf_Oper_L" target="Cingulum_Mid_R" id="92" weight="1.0" />
+      <edge source="Frontal_Inf_Oper_L" target="Cuneus_L" id="93" weight="1.0" />
+      <edge source="Frontal_Inf_Oper_L" target="Lingual_L" id="94" weight="1.0" />
+      <edge source="Frontal_Inf_Oper_L" target="Lingual_R" id="95" weight="1.0" />
+      <edge source="Frontal_Inf_Oper_L" target="Occipital_Sup_L" id="96" weight="1.0" />
+      <edge source="Frontal_Inf_Oper_L" target="Occipital_Sup_R" id="97" weight="1.0" />
+      <edge source="Frontal_Inf_Oper_L" target="Occipital_Mid_R" id="98" weight="1.0" />
+      <edge source="Frontal_Inf_Oper_L" target="Occipital_Inf_L" id="99" weight="1.0" />
+      <edge source="Frontal_Inf_Oper_L" target="Fusiform_L" id="100" weight="1.0" />
+      <edge source="Frontal_Inf_Oper_L" target="Fusiform_R" id="101" weight="1.0" />
+      <edge source="Frontal_Inf_Oper_L" target="Parietal_Inf_L" id="102" weight="1.0" />
+      <edge source="Frontal_Inf_Oper_R" target="Insula_L" id="103" weight="2.0" />
+      <edge source="Frontal_Inf_Oper_R" target="Cingulum_Mid_L" id="104" weight="1.0" />
+      <edge source="Frontal_Inf_Tri_L" target="Frontal_Sup_Medial_L" id="105" weight="1.0" />
+      <edge source="Frontal_Inf_Tri_L" target="Parietal_Inf_L" id="106" weight="1.0" />
+      <edge source="Frontal_Inf_Tri_L" target="Parietal_Inf_R" id="107" weight="1.0" />
+      <edge source="Supp_Motor_Area_L" target="Supp_Motor_Area_R" id="108" weight="1.0" />
+      <edge source="Supp_Motor_Area_L" target="Frontal_Mid_Orb_L.1" id="109" weight="1.0" />
+      <edge source="Supp_Motor_Area_L" target="Insula_R" id="110" weight="1.0" />
+      <edge source="Supp_Motor_Area_L" target="Cingulum_Mid_R" id="111" weight="2.0" />
+      <edge source="Supp_Motor_Area_L" target="Cuneus_L" id="112" weight="1.0" />
+      <edge source="Supp_Motor_Area_L" target="Lingual_L" id="113" weight="1.0" />
+      <edge source="Supp_Motor_Area_L" target="Lingual_R" id="114" weight="1.0" />
+      <edge source="Supp_Motor_Area_L" target="Occipital_Sup_L" id="115" weight="1.0" />
+      <edge source="Supp_Motor_Area_L" target="Occipital_Sup_R" id="116" weight="1.0" />
+      <edge source="Supp_Motor_Area_L" target="Occipital_Mid_R" id="117" weight="1.0" />
+      <edge source="Supp_Motor_Area_L" target="Occipital_Inf_L" id="118" weight="1.0" />
+      <edge source="Supp_Motor_Area_L" target="Fusiform_L" id="119" weight="1.0" />
+      <edge source="Supp_Motor_Area_L" target="Fusiform_R" id="120" weight="1.0" />
+      <edge source="Supp_Motor_Area_L" target="Parietal_Sup_L" id="121" weight="1.0" />
+      <edge source="Supp_Motor_Area_L" target="Parietal_Inf_L" id="122" weight="1.0" />
+      <edge source="Supp_Motor_Area_L" target="Parietal_Inf_R" id="123" weight="1.0" />
+      <edge source="Supp_Motor_Area_R" target="Frontal_Mid_Orb_L.1" id="124" weight="1.0" />
+      <edge source="Supp_Motor_Area_R" target="Insula_R" id="125" weight="1.0" />
+      <edge source="Supp_Motor_Area_R" target="Cingulum_Mid_R" id="126" weight="1.0" />
+      <edge source="Supp_Motor_Area_R" target="Cuneus_L" id="127" weight="1.0" />
+      <edge source="Supp_Motor_Area_R" target="Lingual_L" id="128" weight="1.0" />
+      <edge source="Supp_Motor_Area_R" target="Lingual_R" id="129" weight="1.0" />
+      <edge source="Supp_Motor_Area_R" target="Occipital_Sup_L" id="130" weight="1.0" />
+      <edge source="Supp_Motor_Area_R" target="Occipital_Sup_R" id="131" weight="1.0" />
+      <edge source="Supp_Motor_Area_R" target="Occipital_Mid_R" id="132" weight="1.0" />
+      <edge source="Supp_Motor_Area_R" target="Occipital_Inf_L" id="133" weight="1.0" />
+      <edge source="Supp_Motor_Area_R" target="Fusiform_L" id="134" weight="1.0" />
+      <edge source="Supp_Motor_Area_R" target="Fusiform_R" id="135" weight="1.0" />
+      <edge source="Supp_Motor_Area_R" target="Parietal_Inf_L" id="136" weight="1.0" />
+      <edge source="Frontal_Sup_Medial_L" target="Parietal_Inf_L" id="137" weight="1.0" />
+      <edge source="Frontal_Sup_Medial_L" target="Parietal_Inf_R" id="138" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L.1" target="Insula_R" id="139" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L.1" target="Cingulum_Mid_R" id="140" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L.1" target="Cuneus_L" id="141" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L.1" target="Lingual_L" id="142" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L.1" target="Lingual_R" id="143" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L.1" target="Occipital_Sup_L" id="144" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L.1" target="Occipital_Sup_R" id="145" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L.1" target="Occipital_Mid_R" id="146" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L.1" target="Occipital_Inf_L" id="147" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L.1" target="Fusiform_L" id="148" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L.1" target="Fusiform_R" id="149" weight="1.0" />
+      <edge source="Frontal_Mid_Orb_L.1" target="Parietal_Inf_L" id="150" weight="1.0" />
+      <edge source="Insula_L" target="Cingulum_Mid_L" id="151" weight="1.0" />
+      <edge source="Insula_L" target="Occipital_Mid_L" id="152" weight="1.0" />
+      <edge source="Insula_R" target="Cingulum_Mid_R" id="153" weight="1.0" />
+      <edge source="Insula_R" target="Cuneus_L" id="154" weight="1.0" />
+      <edge source="Insula_R" target="Lingual_L" id="155" weight="1.0" />
+      <edge source="Insula_R" target="Lingual_R" id="156" weight="1.0" />
+      <edge source="Insula_R" target="Occipital_Sup_L" id="157" weight="1.0" />
+      <edge source="Insula_R" target="Occipital_Sup_R" id="158" weight="1.0" />
+      <edge source="Insula_R" target="Occipital_Mid_R" id="159" weight="1.0" />
+      <edge source="Insula_R" target="Occipital_Inf_L" id="160" weight="1.0" />
+      <edge source="Insula_R" target="Fusiform_L" id="161" weight="1.0" />
+      <edge source="Insula_R" target="Fusiform_R" id="162" weight="1.0" />
+      <edge source="Insula_R" target="Parietal_Inf_L" id="163" weight="1.0" />
+      <edge source="Cingulum_Ant_R" target="Cingulum_Mid_L" id="164" weight="1.0" />
+      <edge source="Cingulum_Ant_R" target="Hippocampus_L" id="165" weight="1.0" />
+      <edge source="Cingulum_Ant_R" target="Fusiform_L" id="166" weight="1.0" />
+      <edge source="Cingulum_Mid_L" target="Cingulum_Mid_R" id="167" weight="1.0" />
+      <edge source="Cingulum_Mid_L" target="Hippocampus_L" id="168" weight="1.0" />
+      <edge source="Cingulum_Mid_L" target="Fusiform_L" id="169" weight="1.0" />
+      <edge source="Cingulum_Mid_R" target="Cuneus_L" id="170" weight="1.0" />
+      <edge source="Cingulum_Mid_R" target="Lingual_L" id="171" weight="1.0" />
+      <edge source="Cingulum_Mid_R" target="Lingual_R" id="172" weight="1.0" />
+      <edge source="Cingulum_Mid_R" target="Occipital_Sup_L" id="173" weight="1.0" />
+      <edge source="Cingulum_Mid_R" target="Occipital_Sup_R" id="174" weight="1.0" />
+      <edge source="Cingulum_Mid_R" target="Occipital_Mid_R" id="175" weight="1.0" />
+      <edge source="Cingulum_Mid_R" target="Occipital_Inf_L" id="176" weight="1.0" />
+      <edge source="Cingulum_Mid_R" target="Fusiform_L" id="177" weight="1.0" />
+      <edge source="Cingulum_Mid_R" target="Fusiform_R" id="178" weight="1.0" />
+      <edge source="Cingulum_Mid_R" target="Parietal_Inf_L" id="179" weight="1.0" />
+      <edge source="Cingulum_Mid_R" target="Parietal_Inf_R" id="180" weight="1.0" />
+      <edge source="Hippocampus_L" target="Fusiform_L" id="181" weight="1.0" />
+      <edge source="Cuneus_L" target="Lingual_L" id="182" weight="1.0" />
+      <edge source="Cuneus_L" target="Lingual_R" id="183" weight="1.0" />
+      <edge source="Cuneus_L" target="Occipital_Sup_L" id="184" weight="1.0" />
+      <edge source="Cuneus_L" target="Occipital_Sup_R" id="185" weight="1.0" />
+      <edge source="Cuneus_L" target="Occipital_Mid_R" id="186" weight="1.0" />
+      <edge source="Cuneus_L" target="Occipital_Inf_L" id="187" weight="1.0" />
+      <edge source="Cuneus_L" target="Fusiform_L" id="188" weight="1.0" />
+      <edge source="Cuneus_L" target="Fusiform_R" id="189" weight="1.0" />
+      <edge source="Cuneus_L" target="Postcentral_L" id="190" weight="1.0" />
+      <edge source="Cuneus_L" target="Parietal_Inf_L" id="191" weight="1.0" />
+      <edge source="Lingual_L" target="Lingual_R" id="192" weight="1.0" />
+      <edge source="Lingual_L" target="Occipital_Sup_L" id="193" weight="1.0" />
+      <edge source="Lingual_L" target="Occipital_Sup_R" id="194" weight="1.0" />
+      <edge source="Lingual_L" target="Occipital_Mid_R" id="195" weight="1.0" />
+      <edge source="Lingual_L" target="Occipital_Inf_L" id="196" weight="1.0" />
+      <edge source="Lingual_L" target="Fusiform_L" id="197" weight="1.0" />
+      <edge source="Lingual_L" target="Fusiform_R" id="198" weight="1.0" />
+      <edge source="Lingual_L" target="Parietal_Inf_L" id="199" weight="1.0" />
+      <edge source="Lingual_R" target="Occipital_Sup_L" id="200" weight="1.0" />
+      <edge source="Lingual_R" target="Occipital_Sup_R" id="201" weight="1.0" />
+      <edge source="Lingual_R" target="Occipital_Mid_R" id="202" weight="1.0" />
+      <edge source="Lingual_R" target="Occipital_Inf_L" id="203" weight="1.0" />
+      <edge source="Lingual_R" target="Fusiform_L" id="204" weight="1.0" />
+      <edge source="Lingual_R" target="Fusiform_R" id="205" weight="1.0" />
+      <edge source="Lingual_R" target="Parietal_Inf_L" id="206" weight="1.0" />
+      <edge source="Occipital_Sup_L" target="Occipital_Sup_R" id="207" weight="1.0" />
+      <edge source="Occipital_Sup_L" target="Occipital_Mid_R" id="208" weight="1.0" />
+      <edge source="Occipital_Sup_L" target="Occipital_Inf_L" id="209" weight="1.0" />
+      <edge source="Occipital_Sup_L" target="Fusiform_L" id="210" weight="1.0" />
+      <edge source="Occipital_Sup_L" target="Fusiform_R" id="211" weight="1.0" />
+      <edge source="Occipital_Sup_L" target="Parietal_Inf_L" id="212" weight="1.0" />
+      <edge source="Occipital_Sup_R" target="Occipital_Mid_R" id="213" weight="1.0" />
+      <edge source="Occipital_Sup_R" target="Occipital_Inf_L" id="214" weight="1.0" />
+      <edge source="Occipital_Sup_R" target="Fusiform_L" id="215" weight="1.0" />
+      <edge source="Occipital_Sup_R" target="Fusiform_R" id="216" weight="1.0" />
+      <edge source="Occipital_Sup_R" target="Parietal_Inf_L" id="217" weight="1.0" />
+      <edge source="Occipital_Mid_R" target="Occipital_Inf_L" id="218" weight="1.0" />
+      <edge source="Occipital_Mid_R" target="Fusiform_L" id="219" weight="1.0" />
+      <edge source="Occipital_Mid_R" target="Fusiform_R" id="220" weight="1.0" />
+      <edge source="Occipital_Mid_R" target="Parietal_Inf_L" id="221" weight="1.0" />
+      <edge source="Occipital_Inf_L" target="Fusiform_L" id="222" weight="1.0" />
+      <edge source="Occipital_Inf_L" target="Fusiform_R" id="223" weight="1.0" />
+      <edge source="Occipital_Inf_L" target="Parietal_Inf_L" id="224" weight="1.0" />
+      <edge source="Fusiform_L" target="Fusiform_R" id="225" weight="1.0" />
+      <edge source="Fusiform_L" target="Parietal_Inf_L" id="226" weight="1.0" />
+      <edge source="Fusiform_R" target="Parietal_Inf_L" id="227" weight="1.0" />
+      <edge source="Parietal_Inf_L" target="Parietal_Inf_R" id="228" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>
