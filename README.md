@@ -9,4 +9,4 @@ In my data analysis I used the following libraries:
 - NumPy
 - Matplotlib
 
-Main data analysis project code: https://github.com/inquack/nback-working-memory-brain-network-analysis/blob/main/dataanalysis/YA_Old_nbackanalysis1.ipynb
+Main data analysis project code: https://github.com/inquack/nback-working-memory-brain-network-analysis/blob/main/dataanalysis/YA_Old_nbackanalysis2.ipynb
